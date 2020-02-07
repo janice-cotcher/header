@@ -1,7 +1,7 @@
 # Course: CS 30
 # Period: 1
 # Date created: 19/02/03
-# Date last modified: 19/02/04
+# Date last modified: 2020/02/07
 # Name: Janice Cotcher
 # Description: Area of a rectangle calculator
 
